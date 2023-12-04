@@ -1,4 +1,7 @@
-# rickandmortyvue
+# rick and morty with VUEjs
+
+Consuming API-Rest
+
 
 ## Project setup
 ```
