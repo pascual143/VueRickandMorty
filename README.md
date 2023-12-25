@@ -3,7 +3,7 @@
 ## Visit the site:  
  ✨ Website✨
 
-Consuming API-Rest
+Consuming API-Rest and VUEjs
 
 ## Tech
 
