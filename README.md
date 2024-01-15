@@ -16,7 +16,7 @@ Consuming API-Rest and VUEjs
 
 - Game
 - Tools
-## Project setup
+## Project setup easy
 ```
 npm install
 ```
