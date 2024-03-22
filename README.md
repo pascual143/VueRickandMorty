@@ -21,7 +21,7 @@ Consuming API-Rest and VUEjs
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile and hot-reloads for development
 ```
 npm run serve
 ```
