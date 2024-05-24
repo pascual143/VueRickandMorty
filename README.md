@@ -5,7 +5,7 @@
 
 Consuming API-Rest and VUEjs
 
-## Tech
+## Tech.
 
 - JavaScript
 - VUEJS
@@ -16,17 +16,17 @@ Consuming API-Rest and VUEjs
 
 - Game
 - Tools
-## Project setup easy
+## Project setup easy.
 ```
 npm install
 ```
 
-### Compile and hot-reloads for development
+### Compile and hot-reloads for development.
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production.
 ```
 npm run build
 ```
